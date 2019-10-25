@@ -6,7 +6,7 @@
 
 
 ## Growth Mindset
-- Is the ability to believe that you can do whatever you set your mind to. The growth mindset equips you to undertake challenges and strive from them, it also enables you to learn from your mistakes and bad habits in order to be a better version of yourself productively.
+> Is the ability to believe that you can do whatever you set your mind to. The growth mindset equips you to undertake challenges and strive from them, it also enables you to learn from your mistakes and bad habits in order to be a better version of yourself productively.
 
 ### Three reminders of Growth Mindset
 - Always welcome challenges in your life regardless of the outcome.
