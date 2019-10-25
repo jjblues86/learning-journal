@@ -2,7 +2,12 @@
 
 
 ## Introduction
-*My name is Jerome Joof, I am a Software Engineer. I have an experience in working in the Insurance sector before I pursued my life-long goal of becoming an engineer. I completed a certification in FullStack Software Development in JavaScript. I am originally from Gambia, West Afica and I have been living in the U.S for the past 9 years. I love to challenge myself and continually learning different technologies to equip me in the best way possible to execute my work as a software engineer. I love soccer and have been playing the sport since I was a kid. My favorite things to do are: **Hiking, building websites, hanging out with my family and adventure**.*
+*My name is Jerome Joof, I am a Software Engineer. I have an experience in working in the Insurance sector before I pursued my life-long goal of becoming an engineer. I completed a certification in FullStack Software Development in JavaScript. I am originally from Gambia, West Afica and I have been living in the U.S for the past 9 years. I love to challenge myself and continually learning different technologies to equip me in the best way possible to execute my work as a software engineer. I love soccer and have been playing the sport since I was a kid. My favorite things to do are: 
+- Hiking 
+- Playing/Watching Soccer(Man United)
+- Building websites 
+- Hanging out with my family
+- Adventure
 
 
 ## Growth Mindset
