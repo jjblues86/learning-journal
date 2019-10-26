@@ -20,5 +20,7 @@ My name is ***Jerome Joof***, I am a Software Engineer. I have an experience in 
 
 ## Page Contents
 1. [Read: 01 Learning Markdown](https://github.com/jjblues86/learning-journal/wiki/Read:-01---Learning-Markdown)
+2. [Read: 02 The Coder's Computer](https://github.com/jjblues86/learning-journal/wiki/Read:-02---The-Coder's-Computer)
+2. [Read: 03 - Revisions and the Cloud](https://github.com/jjblues86/learning-journal/wiki/Read:-03---Revisions-and-the-Cloud)
 
 
